@@ -1,0 +1,30 @@
+# Données brutes et résultats produits par les scripts
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Fichiers temporaires Office (ouverts dans Excel/Word)
+~$*
+
+# Secrets et configuration locale
+.env
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
