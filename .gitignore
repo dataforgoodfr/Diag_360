@@ -28,3 +28,6 @@ env/
 Thumbs.db
 .idea/
 .vscode/
+
+# Fichiers sources retéléchargés par les scripts
+fichier_source/
